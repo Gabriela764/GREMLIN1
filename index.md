@@ -1,12 +1,25 @@
-## Welcome to GitHub Pages
+# GREMLIN
 
-You can use the [editor on GitHub](https://github.com/Gabriela764/GREMLIN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bem-vindos a minha página, criei ela com o propóstito de mostrar o que aprendi durante os estudos da plataforma utilizando o Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## MARKDOWN
 
-### Markdown
+![Captura de tela 2021-05-10 112019](https://user-images.githubusercontent.com/80926650/117674109-c5a8be80-b181-11eb-85b1-b5149326b80a.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Como foi criado?
+
+*Ele foi criado em 2004 por John Gruber e Aaron Swartz.*
+
+## O que é Markdown?
+
+*Ele é um sitema de formatação aberto que torna a escrita e a leitura mais simples.*
+
+## Qual é a sua função?
+
+*Ele marca as mudanças feitos nos textos (subtítulos, negritos, itálicos, etc).*
+
+Como nos exemplos a seguir:
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +39,26 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Usar o Markdown é útil porque:
 
-### Jekyll Themes
+-Ele é simples de aprender.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gabriela764/GREMLIN/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-Simples de usar.
 
-### Support or Contact
+-Economiza tempo.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-Códigos facéis.
+
+## Links que podem ser úteis
+
+[Sintaxe dos códigos ING](https://guides.github.com/features/mastering-markdown/)
+
+[Sintaxe dos códigos PORT](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#sintaxe-do-markdown)
+
+[Modelos prontos](https://stackedit.io/)
+
+[Atalhos de teclado](https://docs.github.com/pt/desktop/installing-and-configuring-github-desktop/keyboard-shortcuts)
+
+
+
+
