@@ -1,5 +1,5 @@
 
-Bem-vindos a minha página, criei ela com o propósito de mostrar o que eu aprendi durante os estudos da plataforma com o Markdown.
+Bem-vindos a minha página, criei ela com o propósito de mostrar o que eu aprendi durante os estudos da plataforma com o Markdow
 
 **MARKDOWN**
 
