@@ -1,8 +1,10 @@
-# GREMLIN
 
 Bem-vindos a minha página, criei ela com o propósito de mostrar o que eu aprendi durante os estudos da plataforma com o Markdown.
 
 **MARKDOWN**
+
+![logo markdown](https://user-images.githubusercontent.com/80926650/117685460-55536a80-b18c-11eb-80f4-4184c5d30df4.png)
+
 
 Como foi criado?
 
